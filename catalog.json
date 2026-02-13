@@ -1,0 +1,218 @@
+{
+  "metadata": {
+    "email": "23f2004201@ds.study.iitm.ac.in",
+    "version": "26b958f9"
+  },
+  "products": [
+    {
+      "id": 1,
+      "name": "Cotton T-Shirt",
+      "category": "clothing",
+      "price": 299.99,
+      "stock": 50,
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "name": "Jeans",
+      "category": "clothing",
+      "price": 1499.99,
+      "stock": 30,
+      "rating": 4.7
+    },
+    {
+      "id": 3,
+      "name": "Winter Jacket",
+      "category": "clothing",
+      "price": 3999.99,
+      "stock": 15,
+      "rating": 4.8
+    },
+    {
+      "id": 4,
+      "name": "Summer Dress",
+      "category": "clothing",
+      "price": 1999.99,
+      "stock": 25,
+      "rating": 4.6
+    },
+    {
+      "id": 5,
+      "name": "Running Shoes",
+      "category": "clothing",
+      "price": 2499.99,
+      "stock": 10,
+      "rating": 4.9
+    },
+    {
+      "id": 6,
+      "name": "Laptop Stand",
+      "category": "electronics",
+      "price": 1999.99,
+      "stock": 40,
+      "rating": 4.3
+    },
+    {
+      "id": 7,
+      "name": "USB-C Cable",
+      "category": "electronics",
+      "price": 399.99,
+      "stock": 100,
+      "rating": 4.2
+    },
+    {
+      "id": 8,
+      "name": "Wireless Mouse",
+      "category": "electronics",
+      "price": 799.99,
+      "stock": 60,
+      "rating": 4.4
+    },
+    {
+      "id": 9,
+      "name": "Mechanical Keyboard",
+      "category": "electronics",
+      "price": 4999.99,
+      "stock": 20,
+      "rating": 4.8
+    },
+    {
+      "id": 10,
+      "name": "Monitor Stand",
+      "category": "electronics",
+      "price": 2499.99,
+      "stock": 35,
+      "rating": 4.5
+    },
+    {
+      "id": 11,
+      "name": "Oak Desk",
+      "category": "furniture",
+      "price": 12999.99,
+      "stock": 8,
+      "rating": 4.7
+    },
+    {
+      "id": 12,
+      "name": "Office Chair",
+      "category": "furniture",
+      "price": 8999.99,
+      "stock": 12,
+      "rating": 4.6
+    },
+    {
+      "id": 13,
+      "name": "Bookshelf",
+      "category": "furniture",
+      "price": 4999.99,
+      "stock": 5,
+      "rating": 4.4
+    },
+    {
+      "id": 14,
+      "name": "Coffee Table",
+      "category": "furniture",
+      "price": 6999.99,
+      "stock": 10,
+      "rating": 4.5
+    },
+    {
+      "id": 15,
+      "name": "Bed Frame",
+      "category": "furniture",
+      "price": 15999.99,
+      "stock": 3,
+      "rating": 4.8
+    },
+    {
+      "id": 16,
+      "name": "Python Book",
+      "category": "books",
+      "price": 599.99,
+      "stock": 50,
+      "rating": 4.6
+    },
+    {
+      "id": 17,
+      "name": "Data Science Handbook",
+      "category": "books",
+      "price": 799.99,
+      "stock": 40,
+      "rating": 4.5
+    },
+    {
+      "id": 18,
+      "name": "Web Dev Guide",
+      "category": "books",
+      "price": 699.99,
+      "stock": 35,
+      "rating": 4.4
+    },
+    {
+      "id": 19,
+      "name": "Algorithm Book",
+      "category": "books",
+      "price": 899.99,
+      "stock": 30,
+      "rating": 4.7
+    },
+    {
+      "id": 20,
+      "name": "ML Mastery",
+      "category": "books",
+      "price": 999.99,
+      "stock": 25,
+      "rating": 4.8
+    },
+    {
+      "id": 21,
+      "name": "Design Patterns",
+      "category": "books",
+      "price": 749.99,
+      "stock": 20,
+      "rating": 4.5
+    },
+    {
+      "id": 22,
+      "name": "Cloud Computing 101",
+      "category": "books",
+      "price": 849.99,
+      "stock": 18,
+      "rating": 4.6
+    },
+    {
+      "id": 23,
+      "name": "Docker Handbook",
+      "category": "books",
+      "price": 799.99,
+      "stock": 22,
+      "rating": 4.7
+    },
+    {
+      "id": 24,
+      "name": "API Design",
+      "category": "books",
+      "price": 699.99,
+      "stock": 28,
+      "rating": 4.4
+    }
+  ],
+  "aggregations": {
+    "clothing": {
+      "count": 5,
+      "inventoryValue": 75057.26
+    },
+    "electronics": {
+      "count": 5,
+      "inventoryValue": 53098.95
+    },
+    "furniture": {
+      "count": 5,
+      "inventoryValue": 181982.50
+    },
+    "books": {
+      "count": 9,
+      "inventoryValue": 17009.63
+    }
+  }
+}
