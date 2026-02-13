@@ -5,214 +5,218 @@
   },
   "products": [
     {
-      "id": 1,
-      "name": "Cotton T-Shirt",
-      "category": "clothing",
-      "price": 299.99,
-      "stock": 50,
+      "id": "prod-26b958f9-001",
+      "name": "Basic Item 1",
+      "category": "books",
+      "price": 438.25,
+      "stock": 83,
+      "rating": 2.4
+    },
+    {
+      "id": "prod-26b958f9-002",
+      "name": "Standard Item 2",
+      "category": "books",
+      "price": 362.88,
+      "stock": 102,
+      "rating": 3.5
+    },
+    {
+      "id": "prod-26b958f9-003",
+      "name": "Elite Item 3",
+      "category": "books",
+      "price": 14.41,
+      "stock": 31,
+      "rating": 2.4
+    },
+    {
+      "id": "prod-26b958f9-004",
+      "name": "Basic Item 4",
+      "category": "sports",
+      "price": 375.2,
+      "stock": 7,
       "rating": 4.5
     },
     {
-      "id": 2,
-      "name": "Jeans",
-      "category": "clothing",
-      "price": 1499.99,
-      "stock": 30,
-      "rating": 4.7
+      "id": "prod-26b958f9-005",
+      "name": "Premium Item 5",
+      "category": "sports",
+      "price": 135.39,
+      "stock": 39,
+      "rating": 3.9
     },
     {
-      "id": 3,
-      "name": "Winter Jacket",
-      "category": "clothing",
-      "price": 3999.99,
-      "stock": 15,
-      "rating": 4.8
+      "id": "prod-26b958f9-006",
+      "name": "Premium Item 6",
+      "category": "home",
+      "price": 401.91,
+      "stock": 49,
+      "rating": 3.7
     },
     {
-      "id": 4,
-      "name": "Summer Dress",
-      "category": "clothing",
-      "price": 1999.99,
-      "stock": 25,
-      "rating": 4.6
+      "id": "prod-26b958f9-007",
+      "name": "Basic Item 7",
+      "category": "sports",
+      "price": 328.18,
+      "stock": 135,
+      "rating": 2.8
     },
     {
-      "id": 5,
-      "name": "Running Shoes",
-      "category": "clothing",
-      "price": 2499.99,
-      "stock": 10,
-      "rating": 4.9
+      "id": "prod-26b958f9-008",
+      "name": "Pro Item 8",
+      "category": "home",
+      "price": 477.16,
+      "stock": 126,
+      "rating": 3.1
     },
     {
-      "id": 6,
-      "name": "Laptop Stand",
+      "id": "prod-26b958f9-009",
+      "name": "Premium Item 9",
+      "category": "sports",
+      "price": 36.09,
+      "stock": 109,
+      "rating": 3.7
+    },
+    {
+      "id": "prod-26b958f9-010",
+      "name": "Premium Item 10",
       "category": "electronics",
-      "price": 1999.99,
-      "stock": 40,
-      "rating": 4.3
+      "price": 262.88,
+      "stock": 43,
+      "rating": 3.7
     },
     {
-      "id": 7,
-      "name": "USB-C Cable",
+      "id": "prod-26b958f9-011",
+      "name": "Pro Item 11",
       "category": "electronics",
-      "price": 399.99,
-      "stock": 100,
+      "price": 380.41,
+      "stock": 152,
+      "rating": 2.8
+    },
+    {
+      "id": "prod-26b958f9-012",
+      "name": "Premium Item 12",
+      "category": "electronics",
+      "price": 295.47,
+      "stock": 13,
+      "rating": 1.7
+    },
+    {
+      "id": "prod-26b958f9-013",
+      "name": "Basic Item 13",
+      "category": "electronics",
+      "price": 168.05,
+      "stock": 92,
+      "rating": 2.3
+    },
+    {
+      "id": "prod-26b958f9-014",
+      "name": "Elite Item 14",
+      "category": "home",
+      "price": 362.45,
+      "stock": 27,
+      "rating": 3.4
+    },
+    {
+      "id": "prod-26b958f9-015",
+      "name": "Standard Item 15",
+      "category": "home",
+      "price": 324.14,
+      "stock": 136,
       "rating": 4.2
     },
     {
-      "id": 8,
-      "name": "Wireless Mouse",
-      "category": "electronics",
-      "price": 799.99,
-      "stock": 60,
-      "rating": 4.4
+      "id": "prod-26b958f9-016",
+      "name": "Standard Item 16",
+      "category": "home",
+      "price": 101.33,
+      "stock": 128,
+      "rating": 2.9
     },
     {
-      "id": 9,
-      "name": "Mechanical Keyboard",
-      "category": "electronics",
-      "price": 4999.99,
-      "stock": 20,
-      "rating": 4.8
+      "id": "prod-26b958f9-017",
+      "name": "Standard Item 17",
+      "category": "clothing",
+      "price": 352.88,
+      "stock": 0,
+      "rating": 4
     },
     {
-      "id": 10,
-      "name": "Monitor Stand",
-      "category": "electronics",
-      "price": 2499.99,
-      "stock": 35,
-      "rating": 4.5
+      "id": "prod-26b958f9-018",
+      "name": "Basic Item 18",
+      "category": "sports",
+      "price": 229.66,
+      "stock": 7,
+      "rating": 2.4
     },
     {
-      "id": 11,
-      "name": "Oak Desk",
-      "category": "furniture",
-      "price": 12999.99,
-      "stock": 8,
+      "id": "prod-26b958f9-019",
+      "name": "Standard Item 19",
+      "category": "clothing",
+      "price": 245.92,
+      "stock": 36,
+      "rating": 3.9
+    },
+    {
+      "id": "prod-26b958f9-020",
+      "name": "Standard Item 20",
+      "category": "clothing",
+      "price": 98.48,
+      "stock": 175,
+      "rating": 3.3
+    },
+    {
+      "id": "prod-26b958f9-021",
+      "name": "Elite Item 21",
+      "category": "home",
+      "price": 21.18,
+      "stock": 53,
+      "rating": 1.5
+    },
+    {
+      "id": "prod-26b958f9-022",
+      "name": "Elite Item 22",
+      "category": "sports",
+      "price": 17.62,
+      "stock": 135,
+      "rating": 3.6
+    },
+    {
+      "id": "prod-26b958f9-023",
+      "name": "Pro Item 23",
+      "category": "clothing",
+      "price": 311.3,
+      "stock": 86,
       "rating": 4.7
     },
     {
-      "id": 12,
-      "name": "Office Chair",
-      "category": "furniture",
-      "price": 8999.99,
-      "stock": 12,
-      "rating": 4.6
-    },
-    {
-      "id": 13,
-      "name": "Bookshelf",
-      "category": "furniture",
-      "price": 4999.99,
-      "stock": 5,
-      "rating": 4.4
-    },
-    {
-      "id": 14,
-      "name": "Coffee Table",
-      "category": "furniture",
-      "price": 6999.99,
-      "stock": 10,
-      "rating": 4.5
-    },
-    {
-      "id": 15,
-      "name": "Bed Frame",
-      "category": "furniture",
-      "price": 15999.99,
-      "stock": 3,
-      "rating": 4.8
-    },
-    {
-      "id": 16,
-      "name": "Python Book",
-      "category": "books",
-      "price": 599.99,
-      "stock": 50,
-      "rating": 4.6
-    },
-    {
-      "id": 17,
-      "name": "Data Science Handbook",
-      "category": "books",
-      "price": 799.99,
-      "stock": 40,
-      "rating": 4.5
-    },
-    {
-      "id": 18,
-      "name": "Web Dev Guide",
-      "category": "books",
-      "price": 699.99,
-      "stock": 35,
-      "rating": 4.4
-    },
-    {
-      "id": 19,
-      "name": "Algorithm Book",
-      "category": "books",
-      "price": 899.99,
-      "stock": 30,
-      "rating": 4.7
-    },
-    {
-      "id": 20,
-      "name": "ML Mastery",
-      "category": "books",
-      "price": 999.99,
-      "stock": 25,
-      "rating": 4.8
-    },
-    {
-      "id": 21,
-      "name": "Design Patterns",
-      "category": "books",
-      "price": 749.99,
-      "stock": 20,
-      "rating": 4.5
-    },
-    {
-      "id": 22,
-      "name": "Cloud Computing 101",
-      "category": "books",
-      "price": 849.99,
-      "stock": 18,
-      "rating": 4.6
-    },
-    {
-      "id": 23,
-      "name": "Docker Handbook",
-      "category": "books",
-      "price": 799.99,
-      "stock": 22,
-      "rating": 4.7
-    },
-    {
-      "id": 24,
-      "name": "API Design",
-      "category": "books",
-      "price": 699.99,
-      "stock": 28,
-      "rating": 4.4
+      "id": "prod-26b958f9-024",
+      "name": "Premium Item 24",
+      "category": "clothing",
+      "price": 382.73,
+      "stock": 58,
+      "rating": 3.2
     }
   ],
   "aggregations": {
+    "sports": {
+      "count": 6,
+      "inventoryValue": 68677.34
+    },
+    "electronics": {
+      "count": 4,
+      "inventoryValue": 87834.78
+    },
     "clothing": {
       "count": 5,
       "inventoryValue": 75057.26
     },
-    "electronics": {
-      "count": 5,
-      "inventoryValue": 53098.95
-    },
-    "furniture": {
-      "count": 5,
-      "inventoryValue": 181982.50
-    },
     "books": {
-      "count": 9,
-      "inventoryValue": 17009.63
+      "count": 3,
+      "inventoryValue": 73843.81
+    },
+    "home": {
+      "count": 6,
+      "inventoryValue": 136151.78
     }
   }
 }
