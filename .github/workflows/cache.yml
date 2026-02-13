@@ -1,0 +1,29 @@
+name: Caching Demo for Q7
+
+on: [push, workflow_dispatch]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Cache Dependencies
+        id: cache-ac725b6
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: cache-ac725b6
+          restore-keys: |
+            cache-ac725b6
+
+      - name: prime-cache-ac725b6
+        run: |
+          echo "Cache hit: ${{ steps.cache-ac725b6.outputs.cache-hit }}"
+          if [ "${{ steps.cache-ac725b6.outputs.cache-hit }}" != "true" ]; then
+            echo "Cache miss - priming..."
+            mkdir -p ~/.cache/pip
+            echo "Priming cache content" > ~/.cache/pip/prime.txt
+          else
+            echo "Cache hit!"
+          fi
